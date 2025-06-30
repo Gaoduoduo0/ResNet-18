@@ -1,5 +1,3 @@
-运行平台：https://featurize.cn/vm/available
-
 运行组件：GPU为RTX 3080，CPU为6×Xeon Gold 6142，Python为v3.7版本，PyTorch为v1.10版本。
 
 运行顺序：
