@@ -1,8 +1,9 @@
 运行平台：https://featurize.cn/vm/available
+
 运行组件：GPU为RTX 3080，CPU为6×Xeon Gold 6142，Python为v3.7版本，PyTorch为v1.10版本。
 
 运行顺序：
-配置环境
+->配置环境
 ->统计图像尺寸、比例分布
 ->划分训练集测试集
 ->迁移学习微调训练（基础/进阶）
