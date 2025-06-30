@@ -1,0 +1,15 @@
+{"time":"2025-06-22T20:23:16.346205193+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-06-22T20:23:16.346224174+08:00","level":"INFO","msg":"created symlink","path":"/home/featurize/work/wandb/run-20250622_202316-vzmldftv/logs/debug-core.log"}
+{"time":"2025-06-22T20:23:16.453224012+08:00","level":"INFO","msg":"created new stream","id":"vzmldftv"}
+{"time":"2025-06-22T20:23:16.453267229+08:00","level":"INFO","msg":"stream: started","id":"vzmldftv"}
+{"time":"2025-06-22T20:23:16.453465836+08:00","level":"INFO","msg":"handler: started","stream_id":"vzmldftv"}
+{"time":"2025-06-22T20:23:16.453475778+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vzmldftv"}
+{"time":"2025-06-22T20:23:16.453624719+08:00","level":"INFO","msg":"sender: started","stream_id":"vzmldftv"}
+{"time":"2025-06-22T20:23:17.197970985+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T20:23:17.4038187+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-22T20:23:26.614050496+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-22T20:26:57.357328054+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-22T20:26:57.365353894+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-22T20:26:57.411264823+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-22T20:26:57.415843764+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-22T20:26:59.237242559+08:00","level":"INFO","msg":"Pausing system monitor"}
